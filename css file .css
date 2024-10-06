@@ -1,0 +1,30 @@
+div{
+
+
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    transform: all ease-in;
+   border: 2px solid black;
+   flex-wrap: wrap;
+   position: absolute;
+   top:300px;
+   left: 300px;
+   
+  justify-content: center;
+
+ 
+   
+   transition-duration: 1s;
+   
+}
+div:hover{
+
+background-color: red;
+
+ 
+  transform: scale(2);
+  
+
+    
+}
